@@ -1,0 +1,1 @@
+-1 : Either the file text.kra does not exist or it cannot be read
